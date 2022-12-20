@@ -1,9 +1,18 @@
 # Ubeswap NFT Farm card
-A collection of NFTs based upon Ubeswap farms
+A collection of NFTs based upon Ubeswap farms pools.
 
 # Concept
 
 The concept is based on creating 10 pieces in a special collection that resembles Ubeswap well, and nothing more similar to the reality of DEX than its famous pools, so we decided to make an NFT card that represented each pool of this one.
+
+# Tools Usde
+
+We used the following tools:
+
+- [Framer](https://www.framer.com/)
+- [Figma](https://www.figma.com/)
+- [Dalle 2](https://openai.com/dall-e-2/)
+
 
 # Open Collection
 
@@ -17,6 +26,9 @@ Enter in [ubeswap.nft](https://ubeswap.framer.website) and click at Open Collect
 Click on any NFT on NFTs section and open a dedicated page for it on the website. There you can see on 3D which is some of the best part of the experiences on the website
 <img width="1680" alt="Captura de Tela 2022-12-20 às 01 49 00" src="https://user-images.githubusercontent.com/73398891/208586187-8f4127bb-79f0-4ac0-87e3-e7f32d04a43f.png">
 
+# Status
+
+All NFTs are live for sell at a symbolic value of 10 CELO for supporting our design, work and art.
 
 # Hackers
 To complete this project, we needed two hackers here:
