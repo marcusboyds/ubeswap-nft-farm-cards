@@ -5,6 +5,8 @@ A collection of NFTs based upon Ubeswap farms pools.
 
 The concept is based on creating 10 pieces in a special collection that resembles Ubeswap well, and nothing more similar to the reality of DEX than its famous pools, so we decided to make an NFT card that represented each pool of this one.
 
+![Banner](https://user-images.githubusercontent.com/73398891/208602493-790b0a2a-911c-4f64-ae6e-d5a2eeb9188f.png)
+
 
 # Open Collection
 
