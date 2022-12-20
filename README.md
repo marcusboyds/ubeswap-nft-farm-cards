@@ -14,6 +14,17 @@ Enter in (ubeswap.nft)[https://ubeswap.framer.website] and click at Open Collect
 Click on any NFT on NFTs section and open a dedicated page for it on the website. There you can see on 3D which is some of the best part of the experiences on the website
 
 # Hackers
+To complete this project, we needed two hackers here:
+### Marcus Dutra (marcola.eth)
+- Website: [mainnet.design](https://ubeswap.org/)
+- Github: [github.com/marcusboyds](https://github.com/marcusboyds/)
+- Twitter: [twitter.com/marcola_eth](https://twitter.com/marcola_eth)
+- Professional Email: marcus@mainnet.design
+- Discord: marcola.eth#8275
+
+### Arthur Dutra (turzin.eth)
+- Website: [turzin.framer.website](https://turzin.framer.website/)
+- Discord: turzin#9653
 
 
 
