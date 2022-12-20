@@ -5,20 +5,20 @@ A collection of NFTs based upon Ubeswap farms pools.
 
 The concept is based on creating 10 pieces in a special collection that resembles Ubeswap well, and nothing more similar to the reality of DEX than its famous pools, so we decided to make an NFT card that represented each pool of this one.
 
-# Tools Usde
-
-We used the following tools:
-
-- [Framer](https://www.framer.com/)
-- [Figma](https://www.figma.com/)
-- [Dalle 2](https://openai.com/dall-e-2/)
-
 
 # Open Collection
 
 Enter in [ubeswap.nft](https://ubeswap.framer.website) and click at Open Collection button on the header with Ariswap logo
 
 <img width="193" alt="Captura de Tela 2022-12-20 às 01 47 58" src="https://user-images.githubusercontent.com/73398891/208586073-cebeeffd-150d-44c7-9404-2753bae8f51a.png">
+
+# Tools
+
+We used the following tools:
+
+- [Framer](https://www.framer.com/)
+- [Figma](https://www.figma.com/)
+- [Dalle 2](https://openai.com/dall-e-2/)
 
 
 # See Collection
