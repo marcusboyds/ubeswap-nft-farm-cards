@@ -1,4 +1,4 @@
-# Ubeswap NFT Farm card
+# Yield Farmer - Ubeswap NFT Farm Card
 A collection of NFTs based upon Ubeswap farms pools.
 
 # Concept
